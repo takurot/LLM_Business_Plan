@@ -17,5 +17,3 @@ ISSUEにて自由に提案し、ビジネスプランを作り上げることが
 
 ## コンタクト
 質問や提案がある場合は、[ISSUES](https://github.com/takurot/LLM_Business_Plan/issues)でお知らせください。
-
-これをREADME.mdファイルとしてGithubリポジトリに追加してください。
